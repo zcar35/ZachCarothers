@@ -1,0 +1,59 @@
+body{
+    padding:0 ;
+    margin: 0;
+    background: rgb(15, 10, 1);
+
+}
+/* -- nav bar --*/
+.navbar{
+    background: palegreen;
+
+}
+
+.nav-link,
+.navbar-brand{
+    color: #fff;
+    cursor: pointer;
+}
+
+.nav-link{
+    margin-right: 1em !important;
+}
+.nav-link:hover{
+    color: #000;
+}
+.navbar-collapse{
+    justify-content: flex-end;
+}
+.header{
+    background-image: url('images/header-background1.jpeg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.overaly{
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(red,0 green,0 blue,0 alpha,0.6);
+}
+.description {
+    left: 50%;
+    position: absolute;
+    top: 45%;
+    transform: translate(-50%, -55%);
+    text-align: center;
+
+}
+.description h1{
+    color: goldenrod;
+}
+.description p{
+    color: black;
+    font-size: 1.3rem;
+    line-height: 1.5;
+
+}
+
