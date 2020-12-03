@@ -1,3 +1,3 @@
-# zcar35.github.io
+# ZachCarothers.github.io
 Zach Carothers Personal Website with Resume and recent projects
 zcar35.ZachCarothers.github
